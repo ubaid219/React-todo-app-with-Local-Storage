@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-todo-app-with-local-storage/static/css/main.5942f481.css",
+    "main.js": "/react-todo-app-with-local-storage/static/js/main.bcba9ed4.js",
+    "index.html": "/react-todo-app-with-local-storage/index.html",
+    "main.5942f481.css.map": "/react-todo-app-with-local-storage/static/css/main.5942f481.css.map",
+    "main.bcba9ed4.js.map": "/react-todo-app-with-local-storage/static/js/main.bcba9ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5942f481.css",
+    "static/js/main.bcba9ed4.js"
+  ]
+}
